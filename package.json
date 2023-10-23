@@ -1,0 +1,24 @@
+{
+  "name": "data_process",
+  "version": "1.0.0",
+  "description": "data process ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sistemas activos",
+  "license": "ISC",
+  "dependencies": {
+    "@json2csv/node": "^7.0.3",
+    "aws-sdk": "^2.1478.0",
+    "express": "^4.18.2",
+    "eyes": "^0.1.8",
+    "fs": "0.0.1-security",
+    "json-2-csv": "^4.1.1",
+    "pg": "^8.11.3",
+    "xml2csv": "^1.0.1",
+    "xml2js": "^0.6.2",
+    "xml2json": "^0.12.0"
+  },
+  "type": "module"
+}
